@@ -1,7 +1,7 @@
 {
   "name": "inkdrop-character-count",
   "main": "./lib/inkdrop-character-count",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "An Inkdrop plugin that provides a function to count the number of characters",
   "keywords": [],
   "repository": "https://github.com/bildeneins/inkdrop-character-count",

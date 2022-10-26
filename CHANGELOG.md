@@ -1,5 +1,5 @@
 # CHANGELOG
 
-## 1.0.0 - First Release
+## 0.0.0 - First Release
 
 * Add a function to display the number of characters
