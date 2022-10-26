@@ -1,3 +1,5 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+# CHNAGELOG
+
+## 1.0.0 - First Release
+
+* Add a function to display the number of characters
