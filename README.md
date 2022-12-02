@@ -4,8 +4,8 @@ An Inkdrop plugin that provides a function to count the number of characters
 
 ## Features
 
-- Display the number of characters in the text in the bottom status bar
-- If text is selected, display the number of characters in the selected text
+- Displays the number of characters and words in the text in the status bar at the bottom
+- When text is selected, the number of characters and words of the selected text are displayed in the status bar at the bottom
 
 ## Install
 
