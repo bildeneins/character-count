@@ -1,6 +1,6 @@
 # character count
 
-An Inkdrop plugin that provides a function to count the number of characters
+An Inkdrop plugin that provides a function to count the number of characters and words
 
 ## Features
 
